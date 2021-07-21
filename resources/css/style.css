@@ -1,0 +1,87 @@
+.utama {
+	width: 1020px;
+	margin: auto;
+	border: 1px solid #3bf;
+	background-color:  #a8ffb2;
+
+}
+.kepala {
+}
+h2{
+	color: #0000FF;
+}
+.menu  {
+	padding: 10px;
+	background-color: yellow;
+	color: #fff;
+	text-decoration: none;
+	top: 0px;
+	position: sticky;
+}
+.menu a {
+	padding: 10px;
+	background-color: #b8ff99;
+	color: #ed7513;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: #ffec99 ;
+
+}
+.menu {
+	margin-top: 2px;
+	margin-bottom: 20px;
+}
+.akun{
+	position: absolute;
+	top: 0px;
+	right: 80px;
+
+}
+.logout{
+	position: absolute;
+	top: 0px;
+	right: 10px;
+
+}
+
+
+.isi{
+	margin-left: 10px;
+	margin-bottom: 50px;
+	min-height: 500px;
+
+}
+
+table {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #baca;
+	border-collapse: collapse;
+	width: 1000px;
+}
+table th {
+	text-align: left;
+	width: 300px;
+	border: 1px solid #baca;
+	padding: 10px;
+	background-color: #f5faff;
+	color: #030202;
+}
+table td {
+	border: 1px solid #baca;
+	padding:10px;
+}
+.footer {
+	padding: 10px;
+	text-align: right;
+	background-color: #14f00c;
+	width: 1000px;
+	bottom: 0px;
+	color: #ffffff;
+	position: sticky;
+}
+input[type="text"]{
+	width: 620PX;
+	height: 100%;
+}
